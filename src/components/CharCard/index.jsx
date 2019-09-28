@@ -16,7 +16,7 @@ const cardStyle = {
 
 function CharCard(props) {
   return (
-    <div className="card" style={cardStyle}>
+    <div className="card" style={cardStyle} onClick={() => props.setClicked(props.id)}>
       <div className="img-container">
         <img style={imgStyle}alt={props.name} src={props.image}/>
       </div>

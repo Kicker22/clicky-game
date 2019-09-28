@@ -2,41 +2,49 @@
   {
     "id": 1,
     "name": "Freddy fasbear",
-    "image": "https://vignette.wikia.nocookie.net/fnaf-theories-and-lore/images/0/04/FreddyFazbear.jpeg/revision/latest?cb=20160626163239"
+    "image": "https://vignette.wikia.nocookie.net/fnaf-theories-and-lore/images/0/04/FreddyFazbear.jpeg/revision/latest?cb=20160626163239",
+    "clicked":"false"
   },
   {
     "id": 2,
     "name": "Chica",
-    "image": "https://vignette.wikia.nocookie.net/freddy-fazbears-pizza/images/5/5f/Chica_Official_Render.jpeg/revision/latest/scale-to-width-down/350?cb=20190526204325"
+    "image": "https://vignette.wikia.nocookie.net/freddy-fazbears-pizza/images/5/5f/Chica_Official_Render.jpeg/revision/latest/scale-to-width-down/350?cb=20190526204325",
+    "clicked":"false"
   },
   {
     "id": 3,
     "name": "Foxy",
-    "image": "https://i.kym-cdn.com/entries/icons/facebook/000/017/482/foxy.jpg"
+    "image": "https://i.kym-cdn.com/entries/icons/facebook/000/017/482/foxy.jpg",
+    "clicked":"false"
   },
   {
     "id": 4,
     "name": "bonnie",
-    "image": "https://i.redd.it/uzrttv2oogi11.png"
+    "image": "https://i.redd.it/uzrttv2oogi11.png",
+    "clicked":"false"
   },
   {
     "id": 5,
     "name": "balloon boy",
-    "image": "https://i.kym-cdn.com/photos/images/original/000/862/707/6d9.jpg"
+    "image": "https://i.kym-cdn.com/photos/images/original/000/862/707/6d9.jpg",
+    "clicked":"false"
   },
   {
     "id": 6,
     "name": "baby",
-    "image": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2016/08/16/five-nights-freddys-baby.jpg"
+    "image": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2016/08/16/five-nights-freddys-baby.jpg",
+    "clicked":"false"
   },
   {
     "id": 7,
     "name": "Golden Freddy",
-    "image": "https://i.pinimg.com/originals/43/e2/7a/43e27a96c3d58e32907ded73134c2faf.png"
+    "image": "https://i.pinimg.com/originals/43/e2/7a/43e27a96c3d58e32907ded73134c2faf.png",
+    "clicked":"false"
   },
   {
     "id": 8,
     "name": "Springtrap",
-    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/61d05cf3-9538-4c39-af1a-66a4b356b56a/d8k82gd-7ef757dd-c18a-4270-ab94-da230c635f6c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYxZDA1Y2YzLTk1MzgtNGMzOS1hZjFhLTY2YTRiMzU2YjU2YVwvZDhrODJnZC03ZWY3NTdkZC1jMThhLTQyNzAtYWI5NC1kYTIzMGM2MzVmNmMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-csrNpuIe8Si3Dl8KLaU-anOuvNoiGBBlNmG7DMGXR4"
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/61d05cf3-9538-4c39-af1a-66a4b356b56a/d8k82gd-7ef757dd-c18a-4270-ab94-da230c635f6c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYxZDA1Y2YzLTk1MzgtNGMzOS1hZjFhLTY2YTRiMzU2YjU2YVwvZDhrODJnZC03ZWY3NTdkZC1jMThhLTQyNzAtYWI5NC1kYTIzMGM2MzVmNmMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-csrNpuIe8Si3Dl8KLaU-anOuvNoiGBBlNmG7DMGXR4",
+    "clicked":"false"
   }
 ]

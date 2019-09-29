@@ -3,7 +3,7 @@ import React from "react";
 const imgStyle = {
     height:"200px",
     width:"200px",
-    border: "1px solid white"
+    border: "2px dashed red"
 }
 
 const cardStyle = {

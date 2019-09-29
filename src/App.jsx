@@ -23,7 +23,7 @@ class App extends Component {
 
     if (clickMatch[0].clicked) {
       correct = 0;
-      clickAlert = "Oops, try again..";
+      clickAlert = "Oops, try again...";
 
       for (let i = 0; i < characters.length; i++) {
         characters[i].clicked = false;

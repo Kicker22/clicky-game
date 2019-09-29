@@ -1,0 +1,24 @@
+.content-container{
+    width: fit-content;
+    background: rgba(73, 73, 73, 0.507);
+    box-shadow: 0px 0px 10px 0px red;
+
+}
+
+.images-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+.jumbo-container{
+    margin-top: 5rem;
+    padding: 0;
+    /* background: rgba(95, 95, 95, 0.3); */
+    box-shadow: 0px 0px 10px 0px red;
+}
+.jumbotron{
+    color:yellow    ;
+    background: rgba(95, 95, 95, 0.3);
+}

@@ -1,11 +1,9 @@
 import React from 'react';
+import './navbar.css'
 
-const navStyle={
-    background:"black"
-}
 function Navbar(){
     return (
-        <nav style={navStyle} className = "navbar navbar-dark d-flex justify-content-center">
+        <nav className = "navbar navbar-dark d-flex justify-content-center">
             <a className = "navbar-brand " style = {{color:"white"}}>
                 Clicky Game
             </a>

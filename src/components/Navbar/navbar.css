@@ -1,0 +1,8 @@
+.navbar{
+    background: black;
+    box-shadow: 0px 0px 10px 0px red;   
+}
+
+.navbar-brand{
+    font-size: 2rem;
+}

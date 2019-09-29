@@ -1,5 +1,4 @@
 import React from "react";
-import characters from '../../characters.json'
 
 const imgStyle = {
     height:"200px",
@@ -14,15 +13,12 @@ const cardStyle = {
 
 
 
-function CharCard(props) {
-  return (
-    <div className="card" style={cardStyle} onClick={() => props.setClicked(props.id)}>
+const CharCard = props => (
+    <div onClick={() => props.setClicked(props.id)} className="card ml-3 mb-3"  style={cardStyle}>
       <div className="img-container">
-        <img style={imgStyle}alt={props.name} src={props.image}/>
+        <img style={imgStyle} alt={props.name} src={props.image}/>
       </div>
     </div>
-  );
-
-}
+)
 
 export default CharCard;

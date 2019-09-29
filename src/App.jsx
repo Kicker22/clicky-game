@@ -7,7 +7,7 @@ import "./css/app.css";
 
 let correct = 0;
 let score = 0;
-let clickAlert = "Click on a character...";
+let clickAlert = "Click on a character to start your shift...";
 
 class App extends Component {
   state = {

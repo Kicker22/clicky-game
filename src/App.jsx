@@ -38,7 +38,7 @@ class App extends Component {
       this.setState({ correct })
       this.setState({ characters })
 
-    } else if (correct < 7) {
+    } else if (correct < 11) {
       clickMatch[0].clicked = true;
 
       correct++;
